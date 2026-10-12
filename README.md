@@ -83,6 +83,7 @@ If you liked this repo or find it useful, please give it a star. Thanks!
 ### Hash Text and File
 - https://emn178.github.io/online-tools/
 
+- https://17nas.com/md5.php
 ### Web Developer Toolbox
 - https://gchq.github.io/CyberChef/
 - https://www.browserling.com/tools/
